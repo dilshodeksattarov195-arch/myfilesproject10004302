@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdave",
+        "uuid": 2275758,
+        "checksum": "8ntyi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
